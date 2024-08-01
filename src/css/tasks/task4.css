@@ -1,0 +1,65 @@
+.bookmarks__section {
+}
+.bookmark__title {
+}
+
+.url__input {
+    width: 250px;
+    height: 30px;
+
+    padding-left: 5px;
+    margin-bottom: 20px;
+}
+
+.bookmark__button {
+    width: 140px;
+    height: 30px;
+    border-radius: 4px;
+    background-color: #2196F3;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
+    color: #fff;
+    transition: 400ms ease-in-out;
+    margin: 0 auto;
+    margin-top: 5px;
+}
+
+.bookmark__button:hover {
+    color: #000;
+    transform: scale(1.02);
+}
+
+.bookmark__list {
+}
+
+.bookmark__item {
+    
+}
+
+.bookmark__item:not(:last-child) {
+    margin-bottom: 20px;
+}
+
+.bookmark__url {
+    width: 200px;
+    height: 30px;
+    /* background-color: ; */
+
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.delete__button {
+    margin-left: 20px;
+    width: 80px;
+    height: 30px;
+    border-radius: 4px;
+    background-color: #F44336;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
+    color: #fff;
+    transition: 400ms ease-in-out;
+}
+
+.delete__button:hover {
+    color: #000;
+    transform: scale(1.02);
+}

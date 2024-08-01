@@ -35,3 +35,7 @@ body {
         outline: none;
         border: 1px solid #aaa;
     }
+
+    button:clicked {
+        outline: none;
+    }
